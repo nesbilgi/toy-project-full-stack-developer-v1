@@ -9,7 +9,7 @@ There is a customer data file _MOCK_CUSTOMERS.json_. You will use this file as d
 # Conditions
 
 - Frontend must be **React**, **Vue**, **JQuery** _(React is prefered)_
-- Backend must be **.Net Core** 
+- Backend must be **.Net Core** or **Node JS** _(.Net Core is prefered)_ 
 
 
 # Time Period
