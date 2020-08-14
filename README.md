@@ -8,8 +8,8 @@ There is a customer data file _MOCK_CUSTOMERS.json_. You will use this file as d
 
 # Conditions
 
-- Frontend must be **React**, **Vue**, **JQuery** _(React is prefered)_
-- Backend must be **.Net Core** or **Node JS** _(.Net Core is prefered)_ 
+- Frontend must be **React** with __TypeScript__, using _Hooks_ and _Context Api_
+- Backend must be **.Net Core**, using _EF Core_ (SQLite or InMemory)
 
 
 # Time Period
